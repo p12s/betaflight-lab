@@ -1,1 +1,1 @@
-# betaflight-lab
+# Betaflight on Air65 + Radiomaster TX12
